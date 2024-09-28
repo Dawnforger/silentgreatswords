@@ -1,0 +1,26 @@
+{
+  "type": "silentgear:compound_part",
+  "gear_type": "sword",
+  "part_type": "silentgear:main",
+  "crafting_item": {
+    "item": "silentgreatswords:greatsword_blade"
+  },
+  "name": {
+    "translate": "part.silentgreatswords.greatsword_blade"
+  },
+  "stats": {
+    "melee_damage": {
+      "add": 6.0
+    },
+    "attack_speed": {
+      "add": -3.5
+    },
+    "repair_efficiency": 1.0,
+    "durability": {
+      "mul1": 0.125
+    },
+    "enchantment_value": {
+      "mul1": -0.1
+    }
+  }
+}

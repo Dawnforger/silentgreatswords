@@ -1,0 +1,35 @@
+{
+  "type": "silentgear:compound_part",
+  "ingredients": [
+    {
+      "item": "silentgreatswords:greatsword_blueprint"
+    },
+    {
+      "type": "silentgear:material",
+      "part_type": "silentgear:main"
+    },
+	{
+      "type": "silentgear:material",
+      "part_type": "silentgear:main"
+    },
+	{
+      "type": "silentgear:material",
+      "part_type": "silentgear:main"
+    },
+    {
+      "type": "silentgear:material",
+      "part_type": "silentgear:main"
+    },
+	{
+      "type": "silentgear:material",
+      "part_type": "silentgear:main"
+    },
+    {
+      "type": "silentgear:material",
+      "part_type": "silentgear:main"
+    }
+  ],
+  "result": {
+    "item": "silentgreatswords:greatsword_blade"
+  }
+}

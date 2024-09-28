@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "silentgreatswords:item/blueprint",
+    "layer1": "silentgreatswords:item/blueprint_greatsword"
+  }
+}

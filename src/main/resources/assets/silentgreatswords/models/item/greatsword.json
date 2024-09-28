@@ -1,0 +1,57 @@
+{
+  "parent": "item/handheld",
+  "overrides": [
+    {
+      "model": "silentgreatswords:item/greatsword_lc",
+      "predicate": {
+        "silentgreatswords:model": 2.0
+      }
+    },
+    {
+      "model": "silentgreatswords:item/greatsword_hc",
+      "predicate": {
+        "silentgreatswords:model": 3.0
+      }
+    },
+    {
+      "model": "silentgreatswords:item/greatsword_lc_tip",
+      "predicate": {
+        "silentgreatswords:model": 6.0
+      }
+    },
+    {
+      "model": "silentgreatswords:item/greatsword_hc_tip",
+      "predicate": {
+        "silentgreatswords:model": 7.0
+      }
+    },
+    {
+      "model": "silentgreatswords:item/greatsword_lc_grip",
+      "predicate": {
+        "silentgreatswords:model": 10.0
+      }
+    },
+    {
+      "model": "silentgreatswords:item/greatsword_hc_grip",
+      "predicate": {
+        "silentgreatswords:model": 11.0
+      }
+    },
+    {
+      "model": "silentgreatswords:item/greatsword_lc_tip_grip",
+      "predicate": {
+        "silentgreatswords:model": 14.0
+      }
+    },
+    {
+      "model": "silentgreatswords:item/greatsword_hc_tip_grip",
+      "predicate": {
+        "silentgreatswords:model": 15.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "silentgreatswords:item/greatsword/rod_generic_lc",
+    "layer1": "silentgreatswords:item/greatsword/main_generic_lc"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "silentgreatswords:item/greatsword",
+  "textures": {
+    "layer0": "silentgreatswords:item/greatsword/rod_generic_lc",
+    "layer1": "silentgreatswords:item/greatsword/main_generic_hc",
+    "layer2": "silentgreatswords:item/greatsword/_highlight",
+    "layer3": "silentgreatswords:item/blank",
+    "layer4": "silentgreatswords:item/greatsword/grip_wool"
+  }
+}
